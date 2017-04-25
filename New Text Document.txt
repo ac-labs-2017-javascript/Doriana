@@ -1,3 +1,8 @@
 AbstractScrapper : DopoPoco   TenPizza...
 
-Loader ->storeData
+Loader ->storeData (json)
+
+npm install -g create-react-app
+create-react-app pizza-scrapper-ui
+
+npm start
